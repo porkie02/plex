@@ -1,4 +1,4 @@
-FROM plexinc/pms-docker:public
+FROM plexinc/pms-docker:plexpass
 
 ENTRYPOINT ["/init"]
 
